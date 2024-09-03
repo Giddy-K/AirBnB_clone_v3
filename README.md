@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time..
 
 ## Authors
-sabrallah - [Github](https://github.com/Giddy-K)  
+Gideon - [Github](https://github.com/Giddy-K)  
 
 Second part of Airbnb: Joann Vuong
 ## License
